@@ -35,7 +35,7 @@ A comprehensive Spring Boot application template with integrated JUnit5 testing 
 
 1. **Start MySQL** and ensure the user/password is set as:
    - Username: `root`
-   - Password: `root`
+   - Password: 
 
 2. **Clone the repo**:
 
