@@ -53,6 +53,10 @@ mvn spring-boot:run
 The app will start at: `http://localhost:8888`
 
 ---
+4. **UI** :
+   <img width="1710" height="877" alt="image" src="https://github.com/user-attachments/assets/8658736c-d6a3-435d-bd15-8acde47e289a" />
+   <img width="1710" height="805" alt="image" src="https://github.com/user-attachments/assets/81f1b4af-aa98-4aa7-8a38-1d98f5102b91" />
+
 
 ## 📊 API Documentation
 
